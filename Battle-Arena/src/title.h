@@ -1,0 +1,2 @@
+
+void initTitle(void);
