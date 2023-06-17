@@ -1,7 +1,9 @@
 == Link demo ==
+
 https://www.youtube.com/watch?v=IoIEVYS3bjo
 
 == How to run ==
+
 Make sure to include SDL2, SDL_Mixer, SDL_Image.
 Open Battle-Arena.sln and click debug to enter the game.
 
@@ -38,6 +40,7 @@ Arena Battle have inspiration from several roguelike shoot 'em up video games li
 20 Minutes Till Dawn, The Gun Knight,... and keep it super simple to make and play.
 
 == Members ==
+
 Nguyen Duy Anh
 Nguyen Khac An
 Nguyen Trung Nguyen
