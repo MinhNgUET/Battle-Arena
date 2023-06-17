@@ -1,3 +1,10 @@
+== Link demo ==
+https://www.youtube.com/watch?v=IoIEVYS3bjo
+
+== How to run ==
+Make sure to include SDL2, SDL_Mixer, SDL_Image.
+Open Battle-Arena.sln and click debug to enter the game.
+
 == SDL2 Battle Arena ==
 ![battleArena](https://user-images.githubusercontent.com/117517807/236734177-71a53117-4346-4593-8752-f3a8d80f4961.png)
 
@@ -29,6 +36,12 @@ R - Reload bullets (available only for the pistol gun)
 
 Arena Battle have inspiration from several roguelike shoot 'em up video games like Vampire Survivors, 
 20 Minutes Till Dawn, The Gun Knight,... and keep it super simple to make and play.
+
+== Members ==
+Nguyen Duy Anh
+Nguyen Khac An
+Nguyen Trung Nguyen
+Nguyen Quang Minh
 
 ==Thanks for your attention==
 
