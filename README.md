@@ -42,8 +42,11 @@ Arena Battle have inspiration from several roguelike shoot 'em up video games li
 == Members ==
 
 Nguyen Duy Anh
+
 Nguyen Khac An
+
 Nguyen Trung Nguyen
+
 Nguyen Quang Minh
 
 ==Thanks for your attention==
